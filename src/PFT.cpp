@@ -9,7 +9,7 @@
 *                                                                            *
 *    This code also contains the implementation of MKL DFTI.                 *
 *                                                                            *
-*    https://github.com/FPFTanonymous/FPFT                                   *
+*    https://github.com/snudatalab/PFT                                       *
 *****************************************************************************/
 
 #include <stdio.h>
