@@ -1,6 +1,6 @@
 /*****************************************************************************
 *    This is an implementation of Fast and Accurate                          *
-*    Partial Fourier Transform for Time Series Data (submitted to KDD21).    *
+*    Partial Fourier Transform for Time Series Data (KDD 2021).              *
 *                                                                            *
 *    Note that this code example is specifically designed for                *
 *    real-valued input with a target range centered at zero                  *
