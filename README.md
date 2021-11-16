@@ -1,6 +1,6 @@
 # PFT
 
-This project is a C++ implementation of *Fast and Accurate Partial Fourier Transform for Time Series Data* (KDD 2021).
+This project is a C++ implementation of [Fast and Accurate Partial Fourier Transform for Time Series Data](https://dl.acm.org/doi/10.1145/3447548.3467293) (KDD 2021).
 The codes for [FFTW](http://www.fftw.org/index.html), 
 [MKL](https://software.intel.com/mkl), 
 [Pruned FFT](http://www.fftw.org/pruned.html), and
