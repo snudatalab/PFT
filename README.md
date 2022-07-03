@@ -26,3 +26,16 @@ Stock is a new public data we release; it consists of the daily historical stock
 the four American technology companies Facebook, Amazon, Netflix, and Google.
 We collected closing prices adjusted for stock splits, from 2017-01-03 to 2021-01-08.
 
+## Reference
+
+If you use this code, please cite the following paper.
+~~~
+@inproceedings{ParkJK21,
+  author    = {Yong-chan Park and
+               Jun-Gi Jang and
+               U Kang},
+  title     = {Fast and Accurate Partial Fourier Transform for Time Series Data},
+  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  year      = {2021}
+}
+~~~
