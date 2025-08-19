@@ -29,7 +29,7 @@ We collected closing prices adjusted for stock splits, from 2017-01-03 to 2021-0
 ## Reference
 
 If you use this code, please cite the following paper.
-~~~
+```bibtex
 @inproceedings{park2021fast,
   title={Fast and accurate partial fourier transform for time series data},
   author={Park, Yong-chan and Jang, Jun-Gi and Kang, U},
@@ -37,4 +37,3 @@ If you use this code, please cite the following paper.
   pages={1309--1318},
   year={2021}
 }
-~~~
